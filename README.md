@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring AI/ML & Full-Stack Developer | Python, Java, SQL & Node.js | Certified in Machine Learning & Generative AI
+IT Intern @ Megha Engineering & Infrastructure Ltd. | 2x Hackathon Winner | 2× Hackathon Finalist | Aspiring AI/ML Engineer | Full-Stack Developer | Python, Java, SQL, Node.js
 
 
 ## 🌐 Socials:
