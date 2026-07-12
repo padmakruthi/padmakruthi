@@ -124,7 +124,7 @@
 
 ### 🧩 Coding Profiles
 
-- **CodeChef** — 500+ DSA problems solved
+- **CodeChef** — 600+ DSA problems solved
 - **LeetCode** — 200+ DSA challenges solved
 - **HackerRank** — 200+ coding challenges completed
 
